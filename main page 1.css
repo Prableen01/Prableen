@@ -1,1 +1,37 @@
-hi.c
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="mainpage" type="text/css" href="abc.css">
+</head>
+<body>
+  <div class="confirmation">
+    <div class="overlap-group-wrapper">
+      <div class="overlap-group">
+        <div class="rectangle"></div>
+        <p class="text-wrapper">Let's do a quick verification</p>
+        <p class="div">
+          To finish signing in please enter the verification code we sent to your Email address or Phone.
+        </p>
+        <div class="rectangle-2"></div>
+        <div class="rectangle-3"></div>
+        <div class="rectangle-4"></div>
+        <div class="text-wrapper-2">Verify</div>
+        <div class="text-wrapper-3">Back to Login</div>
+        <p class="didn't-receive-the">
+          <span class="span">
+            Didn't receive the code?<br>
+          </span>
+          <span class="text-wrapper-4">Resend </span>
+          <span class="span">code</span>
+        </p>
+        <div class="text-wrapper-5">PAW SHOP</div>
+        <p class="p-e-t-r-e-n-t-a-l">P E T R E N T A L</p>
+        <div class="text-wrapper-6">0 0 0 0</div>
+        <p class="p">Rented out 20,000+ pets this MONTH!</p>
+        <p class="text-wrapper-7">One of the BEST PET RENTING websites out there!</p>
+        <p class="text-wrapper-8">Use the unique MESSAGING SYSTEM to get updates QUICKLY!</p>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
